@@ -47,7 +47,7 @@ Imagine that Renewable Funding has just acquired a new company, that provides wa
 Here are the automation requirements.
 
 1. The automation must run via the UI within a browser, as future requirements may include a screenshot.
-1. Your solution must output the data into a standard csv file `directions_data.csv`
+1. Your solution must output the data into a csv file `directions_data.csv` with details for each step on one line.
 
 #### Bonus options:
 
