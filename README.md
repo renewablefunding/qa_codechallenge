@@ -54,7 +54,7 @@ Here are the automation requirements.
 If you're feeling inspired, bonus points for:
 
 * allowing for data driven tests pulling addresses from an external file.  (csv, or yml)
-* obtain a screenshot of the map with the route for the "future requirement".
+* obtain a screenshot of the map with the route for a "future requirement".
 
 ## Evaluation
 
