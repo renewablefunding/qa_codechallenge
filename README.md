@@ -8,7 +8,7 @@ Hi there!  We're ecstatic that you're interested in working for Renew Financial'
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your application.
 
-Feel free to email me at [kiisu@renewfund.com](kiisu@renewfund.com) if you have any questions.
+We mostly automate using Watir Webdriver, but you're welcome to complete the challenge using whatever scripting you like.  Feel free to email me at [kiisu@renewfund.com](kiisu@renewfund.com) if you have any questions.
 
 ## Submission Instructions
 
@@ -33,8 +33,6 @@ Feel free to email me at [kiisu@renewfund.com](kiisu@renewfund.com) if you have 
   ```
 
 1. Email the .zip file to [kiisu@renewfund.com](kiisu@renewfund.com), and put the position you are applying for in the email's subject.
-
-If you have any questions about this submission process, feel free to email me.
 
 #### Why can't I just fork, and submit a pull request?
 
