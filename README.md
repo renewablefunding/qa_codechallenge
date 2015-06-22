@@ -1,7 +1,7 @@
 Renew Financial: QA Automation Challenge
 =======================
 
-Hi there!  We're ecstatic that you're interested in working for Renewable Funding's QA team.  To get a better idea of your current automation skills, we'd like for you to complete a code challenge - build automation according to a set of requirements.  The actual requirements are listed further down, but here are the general tech requirements:
+Hi there!  We're ecstatic that you're interested in working for Renew Financial's QA team.  To get a better idea of your current automation skills, we'd like for you to complete a code challenge - build automation according to a set of requirements.  The actual requirements are listed further down, but here are the general tech requirements:
 
 1. Write your code in Ruby.
 1. Make sure your app is runnable on Mac OS X or Linux.
@@ -42,7 +42,7 @@ Unfortunately, Github no longer allows you to fork a public repo and make it pri
 
 ## Project Description
 
-Imagine that Renewable Funding has just acquired a new company, that provides walking directions and we want to compare our walking directions to directions provided by Google.  We may at some point want to compare different starting and ending points so we need automation to obtain this data reliably.  Your automation script should enter a starting address (400 SW 6th Ave #902, Portland, OR 97204), obtain the walking directions to an ending address and output them into a standard csv file.
+Imagine that Renew Financial has just acquired a new company, that provides walking directions and we want to compare our walking directions to directions provided by Google.  We may at some point want to compare different starting and ending points so we need automation to obtain this data reliably.  Your automation script should enter a starting address (400 SW 6th Ave #902, Portland, OR 97204), obtain the walking directions to an ending address and output them into a standard csv file.
 
 Here are the automation requirements.
 
