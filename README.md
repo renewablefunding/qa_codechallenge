@@ -1,4 +1,4 @@
-Renewable Funding: QA Automation Challenge
+Renew Financial: QA Automation Challenge
 =======================
 
 Hi there!  We're ecstatic that you're interested in working for Renewable Funding's QA team.  To get a better idea of your current automation skills, we'd like for you to complete a code challenge - build automation according to a set of requirements.  The actual requirements are listed further down, but here are the general tech requirements:
